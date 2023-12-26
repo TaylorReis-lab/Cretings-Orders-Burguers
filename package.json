@@ -1,0 +1,19 @@
+{
+  "name": "empere-bunguer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "taylor-reis",
+  "license": "ISC",
+  "dependencies": {
+    "e": "^0.2.33",
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
